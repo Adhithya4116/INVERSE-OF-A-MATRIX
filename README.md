@@ -25,6 +25,7 @@ print(result)
 ```
 ## Output:
 ![output](inverseofmatrix.png)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
